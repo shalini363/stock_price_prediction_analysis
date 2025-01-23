@@ -36,7 +36,7 @@ The **Amazon Stock Price Prediction Analysis** project leverages data science an
   - **Notebook Environment**: Jupyter Notebook
 
 ## Installation
-1. Clone the repository: git clone https://github.com/your-username/amazon-stock-price-prediction.git
+1. Clone the repository: git clone https://github.com/shalini363/amazon-stock-price-prediction.git
    
 2. Navigate to the project directory: cd amazon-stock-price-prediction
  
