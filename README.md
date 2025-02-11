@@ -38,7 +38,7 @@ The **Amazon Stock Price Prediction Analysis** project leverages data science an
 ## Installation
 1. Clone the repository: git clone https://github.com/shalini363/stock_price_prediction_analysis.git
    
-2. Navigate to the project directory: cd amazon-stock-price-prediction
+2. Navigate to the project directory: cd stock_price_prediction_analysis
  
 3. Install the required dependencies: pip install -r requirements.txt
  
